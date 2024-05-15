@@ -6,9 +6,9 @@
 
 Teams dashboards: [📝 google sheet](https://docs.google.com/spreadsheets/d/1bIvdzbg5PDoQSr7ugv32wQtcKUiNaBiPt2RSzHwNRtA/edit?usp=sharing)
 
-Your team: group number ❔
+Your team: group number 007
 
-  - Student 1: ❔ (given name + first name + `github user name`, for example Sébastien Boisgérault `boisgera`)
+  - Student 1: Cyril JOLY `c-joly`)
 
   - Student 2: ❔ (given name + first name + `github user name`, for example Sébastien Boisgérault `boisgera`)
   
